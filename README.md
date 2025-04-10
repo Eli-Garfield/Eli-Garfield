@@ -1,9 +1,9 @@
-#  <p align="center"> 👋 Hi, I’m @Eli-Garfield </p>
+#  <p align="center"> 👋 Hi, I’m @Eli </p>
 >  <strong> I’m interested in programming games, DDOSing, Etc.</strong>
 >
 >  <strong> I’m currently learning Markdown and proccesing. </strong>
 >
->  <strong> How to reach me:  my email is eligarfield@gmail.com </strong>
+>  <strong> How to reach me:  my email is rvnqdh5cj.ytfjbu@gmail.com </strong>
 >
 > <strong> Fun fact:  I just started learning markdown and am taking a programming class. </strong>
 
